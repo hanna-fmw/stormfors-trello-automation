@@ -8,7 +8,7 @@ document.querySelector('#app').innerHTML = `
   
     <h3>Hello World</h3>
     <div class="card">
-    <p>This is a dummy app needed to generate a Trello API key</p>
+    <h3>This is a dummy app needed to generate a Trello API key</h3>
       
     </div>
  
